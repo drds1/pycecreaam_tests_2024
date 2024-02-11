@@ -1,0 +1,7 @@
+,name,type,wavelength,noise model,share previous lag,temporary file name,mean,standard deviation,tophat centroid,tophat centroid step,tophat centroid prior cent,tophat centroid prior width,tophat width,tophat width step,tophat width prior cent,tophat width prior width,background offset start,vertical scaling start,extra variance prior,multiplicative errorbar prior,background offset prior,vertical scaling prior,background_polynomials
+0,continuum3751,continuum,3751.0,[],False,continuum_0.dat,0.30983123,1.1018373,0.0,5.0,0.0,-1.0,2.0,0.0,0.0,-0.1,"[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]",,,
+0,continuum4740,continuum,4740.0,[],False,continuum_1.dat,0.30843163,1.1014869,0.0,5.1,0.0,-1.0,2.0,0.0,0.0,-0.1,"[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]",,,
+0,continuum6172,continuum,6172.0,[],False,continuum_2.dat,0.30652735,1.1002682,0.0,5.2,0.0,-1.0,2.0,0.0,0.0,-0.1,"[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]",,,
+0,continuum7500,continuum,7500.0,[],False,continuum_3.dat,0.30470967,1.098641,0.0,5.3,0.0,-1.0,2.0,0.0,0.0,-0.1,"[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]",,,
+0,continuum8678,continuum,8678.0,[],False,continuum_4.dat,0.30292615,1.096944,0.0,5.4,0.0,-1.0,2.0,0.0,0.0,-0.1,"[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]",,,
+0,continuum9711,continuum,9711.0,[],False,continuum_5.dat,0.3011485,1.0953373,0.0,5.5,0.0,-1.0,2.0,0.0,0.0,-0.1,"[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]",,,

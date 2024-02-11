@@ -1,5 +1,0 @@
-,name,type,wavelength,noise model,share previous lag,temporary file name,mean,standard deviation,tophat centroid,tophat centroid step,tophat centroid prior cent,tophat centroid prior width,tophat width,tophat width step,tophat width prior cent,tophat width prior width,background offset start,vertical scaling start,extra variance prior,multiplicative errorbar prior,background offset prior,vertical scaling prior,background_polynomials
-0,continuum 4000,continuum,4000.0,[],False,continuum_0.dat,3.8007948,0.79496026,0.0,5.0,0.0,-1.0,2.0,0.0,0.0,-0.1,"[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]",,,
-0,continuum 5000,continuum,5000.0,[],False,continuum_1.dat,3.589999,0.6756211,0.0,5.1,0.0,-1.0,2.0,0.0,0.0,-0.1,"[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]",,,
-0,continuum 6000,continuum,6000.0,[],False,continuum_2.dat,3.427996,0.6013506,0.0,5.2,0.0,-1.0,2.0,0.0,0.0,-0.1,"[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]",,,
-0,continuum 7000,continuum,7000.0,[],False,continuum_3.dat,3.2769082,0.52550143,0.0,5.3,0.0,-1.0,2.0,0.0,0.0,-0.1,"[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]","[-1.0, -1.0]",,,
