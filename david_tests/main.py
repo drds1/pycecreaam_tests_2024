@@ -99,4 +99,4 @@ a.run(ncores = 3)
 chains = a.get_MCMC_chains()
 
 
-#a.plot_results()
+a.plot_results()
